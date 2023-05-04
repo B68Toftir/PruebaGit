@@ -7,6 +7,6 @@ package ed.ud04ejemplogit;
 public class Ud04ejemplogit {
 
     public static void main(String[] args) {
-        System.out.println("FC Barcelona !!!!!!!!!");
+        System.out.println("FC Barcelona !!!!!!!!! Campions de lliga");
     }
 }
