@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package ed.ud04ejemplogit;
 
 /**
@@ -11,6 +7,6 @@ package ed.ud04ejemplogit;
 public class Ud04ejemplogit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("FC Barcelona !!!!!!!!!");
     }
 }
